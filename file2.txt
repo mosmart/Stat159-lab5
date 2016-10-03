@@ -1,2 +1,4 @@
 file2
+
+Modification to file2.txt
 adding changes to the text file for task 2: resolving conflicts
