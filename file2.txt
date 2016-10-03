@@ -1,1 +1,2 @@
 file2
+adding changes to the text file for task 2: resolving conflicts
