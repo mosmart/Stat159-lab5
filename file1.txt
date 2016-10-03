@@ -1,3 +1,5 @@
 file1
-
+modifying file1 while User B does from branch `task3B`
 Adding new line to file1.txt
+
+User A modifying file1.txt using branch `task4A`
