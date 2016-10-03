@@ -2,3 +2,5 @@ file2
 
 Modification to file2.txt
 adding changes to the text file for task 2: resolving conflicts
+
+Modifying file2.txt for task 4: users working on different branches
