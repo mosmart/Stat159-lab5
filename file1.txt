@@ -5,4 +5,7 @@ Adding new line to file1.txt
 Making changes to file1.txt
 User A modifying file1.txt using branch `task4A`
 
+User B modifying file1.txt 
+
 adding another line to file1 using branch task5A
+
