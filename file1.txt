@@ -1,3 +1,5 @@
 file1
 
 Adding new line to file1.txt
+
+Making changes to file1.txt
